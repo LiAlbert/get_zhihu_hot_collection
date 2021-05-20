@@ -1,0 +1,11 @@
+Host: www.zhihu.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 9REByQIi-32 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Cookie: _zap=473e21b3-1e30-48c5-84c6-3b6863382be0; d_c0="ANBcFhU4SBGPTlZ7_k_5aS_npJiuXzGu8-A=|1589684315"; ISSW=1; capsion_ticket="2|1:0|10:1595170688|14:capsion_ticket|44:MjBjY2VkNzMxOGMyNDVjN2EzNjhjYzk0YmI1ZTFhNjc=|cc55fdba3b1f036ed8a41955b956e18b2d13eeb6f0ba97d62f07a373486ed24f"
+Upgrade-Insecure-Requests: 1
+TE: Trailers
+Pragma: no-cache
+Cache-Control: no-cache
